@@ -155,7 +155,7 @@ docker run -it \
   -e PGADMIN_DEFAULT_PASSWORD="root" \
   -p 8080:80 \
   --network=pg-network \
-  --name pgadmin-2 \
+  --name pgadmin-2024 \
   dpage/pgadmin4
 ```
 
